@@ -2,6 +2,8 @@
 
 This repository contains code for loading, preprocessing, and training various neural network models using a dataset. The dataset is initially loaded as PyTorch tensors and then converted to NumPy arrays for use with TensorFlow/Keras. The primary goal of this project is to compare the performance of different neural network architectures and to observe the effects of different hyperparameters, such as learning rates, on model performance.
 
+- **Dataset** - https://klnaclk-my.sharepoint.com/:f:/g/personal/ranathu-cs19060_stu_kln_ac_lk/EjPs0JrZAgxMoYIx8v_GP0YBsYJQM1e2ZlGeu4G9L_J19Q
+
 ## Features
 
 - Load and preprocess data from PyTorch tensors.
