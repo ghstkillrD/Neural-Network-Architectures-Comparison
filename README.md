@@ -54,9 +54,3 @@ This repository contains code for loading, preprocessing, and training various n
 
 - The script outputs the test loss and accuracy for each neural network model.
 - Training histories are recorded for further analysis and visualization.
-
-## Acknowledgments
-
-- TensorFlow and Keras documentation
-- PyTorch documentation
-- Scikit-learn documentation
