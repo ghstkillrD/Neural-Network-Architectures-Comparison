@@ -30,7 +30,7 @@ This repository contains code for loading, preprocessing, and training various n
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/NeuralNetworkArchitecturesComparison.git
+    git clone https://github.com/ghstkillrD/NeuralNetworkArchitecturesComparison.git
     cd NeuralNetworkArchitecturesComparison
     ```
 
